@@ -4,8 +4,10 @@
 # Esto ocurre porque se ha borrado las empresas anteriores al año activo que funcionaban como claves
 # en las siguientes pestañas
 # Lo que hace la utilidad es a partir del CIF recuperar las empresas (Denominación y demás datos)
+# 12-01-2024
 
 import pandas as pd
+#cambio
 
 filepath_roto = r"c://desarrollo//recorrer-dataframe//excel-roto-oficial.xlsx"
 filepath_completo = r"c://desarrollo//recorrer-dataframe//excel-completo-oficial.xlsx"
